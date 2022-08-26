@@ -1,3 +1,3 @@
 # OOPs-Stopwatch
 
-Just run this as an HTML page
+Just run the project as an HTML page
